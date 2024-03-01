@@ -1,1 +1,2 @@
+[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/Isaiah0521/PA-updated-Weapon-Master/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/Isaiah0521/PA-updated-Weapon-Master )
 
