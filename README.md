@@ -1,1 +1,1 @@
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/Isaiah0521/PA-updated-Weapon-Master/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/Isaiah0521/PA-updated-Weapon-Master )
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8509/badge)](https://www.bestpractices.dev/projects/8509)
