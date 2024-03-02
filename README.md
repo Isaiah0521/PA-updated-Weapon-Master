@@ -1,1 +1,1 @@
-<a href="https://www.bestpractices.dev/projects/8505"><img src="https://www.bestpractices.dev/projects/8505/badge"></a>
+<a href="https://www.bestpractices.dev/projects/8505"><img src="[https://www.bestpractices.dev/projects/8505/badge](https://www.bestpractices.dev/en/projects/8509)https://www.bestpractices.dev/en/projects/8509"></a>
